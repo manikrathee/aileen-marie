@@ -1,4 +1,2 @@
-My custom responsive framework 
+AileenMarie
 ====================
-
-Built off of 1140gs, animate.css, bootstrap and many other open source frameworks

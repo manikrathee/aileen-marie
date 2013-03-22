@@ -5,8 +5,89 @@
 ::selection { background:#333; color:#fff; text-shadow: none; }
 a:link { -webkit-tap-highlight-color: #333; }
 
-body { 
+@import "import/animation";
+
+body {
+    background: rgb(255,255,255); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 12%, rgba(226,226,226,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(12%,rgba(255,255,255,1)), color-stop(100%,rgba(226,226,226,1))); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 12%,rgba(226,226,226,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 12%,rgba(226,226,226,1) 100%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 12%,rgba(226,226,226,1) 100%); /* IE10+ */
+    background: radial-gradient(ellipse at center,  rgba(255,255,255,1) 12%,rgba(226,226,226,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e2e2e2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     -webkit-backface-visibility: hidden;
-        /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
     text-rendering: optimizelegibility;
+    font-family: "tamarillo",sans-serif;
+    .animate;
+    .fadeIn;
+}
+.container{
+    width: 350px;
+    height: 400px;
+    max-width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -175px;
+}
+#pastel{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: transparent url('../images/pastel.jpg') 50% 50% repeat-x;
+}
+h1{
+    .ir;
+    background: url('../images/aileenmarie.png') no-repeat 50% 50%;
+    background-size: 100%;
+    height: 60px;
+    width: 250px;
+    margin: 0 auto;
+}
+p{
+    font-size: 20px;
+    margin: 120px 0;
+    .animate;
+    .delay;
+    .fadeIn;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    width: 55px;
+    overflow: hidden;
+    margin: 50px auto;
+    .animate;
+    .delay;
+    .fadeIn;
+    
+    li{
+        float: left;
+        margin-right: 15px;
+        &:last-child{
+           margin-right: 0; 
+        }
+        a{
+            color: darken(#fff, 15%);
+            -webkit-transition: color 0.25s linear;
+            -moz-transition: color 0.25s linear;
+            transition: color 0.25s linear;
+            &:hover{
+                color: rgb(85, 26, 139);
+            }
+        }
+    }
+}
+
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 2), 
+only screen and (min-resolution: 192dpi) {
+    h1{
+        background-image: url('../images/aileenmarie@2x.png');
+        background-size: 100%;
+    }
 }
