@@ -1,0 +1,1102 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"zIndex"
+			],
+			[
+				"fulls",
+				"fullscreenToggle"
+			],
+			[
+				"banner",
+				"bannerInner"
+			],
+			[
+				"user-",
+				"user-survey-form"
+			],
+			[
+				"droid",
+				"droid-sans"
+			],
+			[
+				"droi",
+				"droid-serif"
+			],
+			[
+				"nav",
+				"navigation-bar"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"autop",
+				"autoplayAPIValue"
+			],
+			[
+				"feedob",
+				"feedObjectNull"
+			],
+			[
+				"fw",
+				"fw:n	font-weight:normal"
+			],
+			[
+				"center",
+				"centerAPI"
+			],
+			[
+				"river-item",
+				"river-item-details"
+			],
+			[
+				"lsn",
+				"lis:n	list-style:none"
+			],
+			[
+				"text",
+				"text/javascript"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"fluence",
+				"fluenceapp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "htdocs/index.html",
+			"settings":
+			{
+				"buffer_size": 1879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "htdocs/css/style.less",
+			"settings":
+			{
+				"buffer_size": 864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "htdocs/css/styles/base.less",
+			"settings":
+			{
+				"buffer_size": 2804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "htdocs/css/import/animation.less",
+			"settings":
+			{
+				"buffer_size": 4874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "htdocs/css/styles/small-desktop.less",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "htdocs/js/script.js",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 162.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/manikrathee/Dropbox/#Symlink/Development/aileen-marie/htdocs/readme.md",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/kendo-overrides.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/kendo.default.min.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/includes/style-guide.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/library-navigation.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/includes/video.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/styles/medium-screen.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/core.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/tipTip.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/1140.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/js/libs/jquery.modal.js",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/styles/large-screen.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/navigation.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/user-survey.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/sub-nav.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/footer.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-scroll.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/header-banner.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/includes/article-center.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/includes/scroll.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/style-guide.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-internal-sidebar.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/internal-header-navigation.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/header.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-internal.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Speaking/2013/Thinking Creatively 10/.git/MERGE_MSG",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/js/libs/fitvids.js",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/tooltip.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/js/libs/jwplayer.js",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/mixins.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/animation.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/import/loader.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/styles/retina.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-video.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/navigation-internal",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/includes/article.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/global/feed.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-article-center.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-fixed-header-nav.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-fixed-header.php",
+		"/Users/manikrathee/Downloads/inserthtml.com.custom-checkbox-radio-2/index.html",
+		"/Users/manikrathee/Downloads/inserthtml.com.custom-checkbox-radio-2/style2.css",
+		"/Users/manikrathee/Desktop/index-fixed-header-nav.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/js/script.js",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/css/styles/base.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/includes/article-full.php",
+		"/Users/manikrathee/Dropbox/#Symlink/Consulting/2013/Continu/Repo/Build/index-article-center.html",
+		"/Users/manikrathee/Library/Caches/Cleanup At Startup/Transmit/76A64A76-F33A-4241-BA7B-E95D0F8985B3/index.html",
+		"/opt/fluence/fluenceapp/.git/MERGE_MSG",
+		"/opt/fluence/fluenceapp/static/css/import/core.scss",
+		"/opt/fluence/fluenceapp/static/js/libs/alerts.js",
+		"/opt/fluence/fluenceapp/static/js/libs/submit.js",
+		"/opt/fluence/fluenceapp/static/js/libs/fitvid.js",
+		"/opt/fluence/fluenceapp/static/js/libs/fittext.js",
+		"/opt/fluence/fluenceapp/static/js/libs/fastclick.js",
+		"/opt/fluence/fluenceapp/static/js/libs/count.js",
+		"/opt/fluence/fluenceapp/static/js/libs/touch.js",
+		"/opt/fluence/fluenceapp/static/js/libs/validation.js",
+		"/opt/fluence/fluenceapp/website/templates/base/header.html",
+		"/opt/fluence/fluenceapp/static/js/libs/touchy.js",
+		"/opt/fluence/fluenceapp/static/css/import/loader.scss",
+		"/opt/fluence/fluenceapp/static/css/import/color-mixin.scss",
+		"/opt/fluence/fluenceapp/static/css/import/color.scss",
+		"/opt/fluence/fluenceapp/static/css/import/checkbox-button.scss",
+		"/opt/fluence/fluenceapp/static/css/styles/base.scss",
+		"/opt/fluence/fluenceapp/static/css/import/hook.scss",
+		"/opt/fluence/fluenceapp/static/js/libs/hook.js",
+		"/Users/manikrathee/Dropbox/#Symlink/Repositories/dotfiles/.git/MERGE_MSG",
+		"/private/etc/hosts",
+		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/Landing/htdocs/index.html",
+		"/Users/manikrathee/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/manikrathee/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/manikrathee/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/import/nav.less",
+		"/Users/manikrathee/Library/Caches/Cleanup At Startup/Transmit/11995ADC-5720-407F-BA40-DE776A177BC7/.htaccess",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/helper.html",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/js/libs/jquery.api.instagram.js",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/#archive/v5.1-responsive-non-mobile-first/interior_livescribe.php",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/js/libs/jquery.api.rdio.js",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/import/core.less",
+		"/opt/fluence/fluenceapp/settings.py",
+		"/opt/fluence/fluenceapp/static/css/import/ss-social.scss",
+		"/opt/fluence/fluenceapp/static/css/import/ss-standard.scss",
+		"/opt/fluence/fluenceapp/website/templates/submission.html",
+		"/opt/fluence/fluenceapp/website/templates/settings.html",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/readme.md",
+		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/App/v0-2/website/templates/base/navigation.html",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/css/import/animation.less",
+		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Brand/Alpha-Final/htdocs/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/index.php",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/home.less",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/import/ss-social.less",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/import/ss-standard.less",
+		"/Users/manikrathee/Dropbox/#Symlink/Repositories/kean-gd-presentation/css/impress-demo.css",
+		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/App/htdocs/static/css/style.scss",
+		"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Alpha/App/htdocs/website/templates/base/header.html",
+		"/Users/manikrathee/.osx",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/contactengine.php",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/js/script.js",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/css/styles/base.less",
+		"/Users/manikrathee/Downloads/NiceSimpleContactForm/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/css/import/core.less",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/css/import/typography.less",
+		"/Users/manikrathee/Downloads/demo/styles.css",
+		"/Users/manikrathee/Downloads/demo/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/js/libs/navbar2.js",
+		"/Users/manikrathee/Downloads/PageScroller-LITE-1.0/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/usa-top-docs/htdocs/css/import/1140.less",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/css/style.less",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/css/styles/base.less",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/global/nav.php",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/import/api.less",
+		"/Users/manikrathee/Dropbox/#Symlink/#ManikRathee/v5/#HTDOCS/css/style.less",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/css/import/typography.less",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/css/import/core.less",
+		"/Users/manikrathee/Dropbox/#Symlink/#Blog/_templates/date - title.html",
+		"/Users/manikrathee/Dropbox/#Symlink/#Blog/_site/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/#Assets/Blog/_global/css/import/animate.less",
+		"/Users/manikrathee/Dropbox/#Symlink/Frameworks/1140gs-Custom/.git/MERGE_MSG",
+		"/Users/manikrathee/Dropbox/#Symlink/Development/Brackets/brackets-minimap/main.css",
+		"/Users/manikrathee/Dropbox/#Symlink/#Blog/_posts/2011-12-12-changes-obama-for-america.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/women-run-the-world/HTDOCS/index.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/women-run-the-world/HTDOCS/js/script.js",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/medartz/htdocs/includes/banner.php",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/medartz/htdocs/providers.html",
+		"/Users/manikrathee/Dropbox/#Symlink/RevSystems/medartz/htdocs/includes/footer.php"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box-shadow",
+			"module",
+			">.onecol<",
+			"feed",
+			"#feed",
+			"item-status",
+			"unread ",
+			"unread",
+			"library",
+			"<h4>",
+			"<h4>Library Item</h4>",
+			"library",
+			"peru",
+			"salmon",
+			"DarkOliveGreen",
+			"tag",
+			"no-label",
+			"close",
+			"success",
+			"full",
+			"#main",
+			"overflow-y",
+			"overflow",
+			"scroll",
+			"scrol",
+			"#fullscreen",
+			"h2",
+			"h1",
+			"suc",
+			"scroll",
+			"full",
+			"scroll",
+			"tag",
+			"purple</li>",
+			"green</li>",
+			"blue</li>",
+			"yellow</li>",
+			"orange</li>",
+			"red</li>",
+			"#27ae61",
+			"tag-",
+			"progress-bar",
+			"progress",
+			"full",
+			"global",
+			"tag",
+			"h2",
+			"article",
+			"droid-sans",
+			";\n",
+			"#feed",
+			"tag",
+			"feed",
+			"tag",
+			"progress",
+			"background",
+			"rgb",
+			"background",
+			"internal",
+			"progress",
+			"tag",
+			"button",
+			"feed",
+			"least",
+			"\n            .one-third.least{\n                text-align: left;\n            }",
+			"least",
+			"nner-container",
+			"inactiv",
+			"internal-nav",
+			"button",
+			"inner-container",
+			"one-third",
+			"<a href=\"#\" class=\"button black finish\" title=\"Finish This Item\"><span class=\"ss-icon\">Check</span> Finish This Item</a>",
+			"item-status read",
+			"overflow-y",
+			"overflow-x",
+			"1.2",
+			"1.1",
+			" rotate(3deg)",
+			" rotate(-3deg)",
+			"50%",
+			"remove",
+			"push",
+			"autoplay",
+			"alert",
+			"backtofeed",
+			"currentsub",
+			"remove",
+			".river-item",
+			"backtof",
+			"backtofeed",
+			"back",
+			"overflow",
+			"scroll",
+			" * www.manikrathee.com",
+			"autoplay",
+			"footer",
+			"embed",
+			"switch",
+			"river-filter",
+			"media-actions",
+			"scroll",
+			"right half",
+			"left half",
+			"class=\"module",
+			"&.small",
+			".module",
+			"#545454",
+			"logo",
+			"autoplay",
+			"headline",
+			"filter",
+			"source",
+			"title",
+			"github",
+			"margin-top: -24",
+			"application",
+			"priv",
+			"priviledge",
+			"privilege",
+			"console",
+			"#hardware",
+			"resource-block",
+			"<p class=\"heading\">",
+			"font-size: 14px;",
+			".bokeh",
+			".demo-3 ",
+			"placeholder"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">one<",
+			"",
+			"<h4 class=\"library-item-heading\">",
+			"<h4><span class=\"ss-icon\">Video</span> Library Item</h4>",
+			"<span></span>purple</li>",
+			"<span></span>green</li>",
+			"<span></span>blue</li>",
+			"<span></span>yellow</li>",
+			"<span></span>orange</li>",
+			"<span></span>red</li>",
+			"                    <li class=\"no-label tag-red\">red</li>\n<span></span>red</li>",
+			"$success",
+			"no-label tag-",
+			"proxima",
+			"checkbox",
+			"<a href=\"#\" class=\"button black finish\" title=\"Mark As Complete\"><span class=\"ss-icon\">Check</span> Mark As Complete</a>",
+			"<a href=\"#\" class=\"button black finish\" title=\"Finish This Item\"><span class=\"ss-icon\">Check</span> Mark As Complete</a>",
+			"item-status complete",
+			"1.1",
+			"1.05",
+			"",
+			"35%",
+			"*",
+			"sixcol last",
+			"sixcol",
+			"class=\"module container row",
+			"class=\"module sixcol",
+			"<a href=\"\" title=\"\">",
+			"font-size: 12px;",
+			".loader-element",
+			"",
+			"sans",
+			"serif",
+			"\"active\"",
+			"0.15",
+			"0,0,0,0.15",
+			"0,0,0,0.35",
+			"255,255,255,0.35",
+			"(255,255,255,0.35) ",
+			"rgba(0,0,0,0.35)",
+			"<p class=\"button\" title=\"Learn More\">Learn More</p>",
+			"translateY(0px);",
+			"translateY(-100px);",
+			"3s ease-in-out"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "htdocs/index.html",
+					"settings":
+					{
+						"buffer_size": 1879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "htdocs/css/style.less",
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Less/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "htdocs/css/styles/base.less",
+					"settings":
+					{
+						"buffer_size": 2804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2015,
+								2015
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Less/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 267.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "htdocs/css/import/animation.less",
+					"settings":
+					{
+						"buffer_size": 4874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							],
+							[
+								61,
+								61
+							],
+							[
+								90,
+								90
+							],
+							[
+								119,
+								119
+							],
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Less/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "htdocs/css/styles/small-desktop.less",
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Less/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "htdocs/js/script.js",
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.664152933757,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sm",
+				"htdocs/css/styles/small-desktop.less"
+			],
+			[
+				"anim",
+				"htdocs/css/import/animation.less"
+			],
+			[
+				"base",
+				"htdocs/css/styles/base.less"
+			],
+			[
+				"kend",
+				"Build/css/import/kendo.default.min.scss"
+			],
+			[
+				"footer",
+				"Build/global/footer.php"
+			],
+			[
+				"sty",
+				"Build/includes/style-guide.php"
+			],
+			[
+				"style",
+				"Build/style-guide.php"
+			],
+			[
+				"sub-nav",
+				"Build/global/sub-nav.php"
+			],
+			[
+				"article",
+				"Build/includes/article-center.php"
+			],
+			[
+				"index",
+				"Build/index.php"
+			],
+			[
+				"feed",
+				"Build/global/feed.php"
+			],
+			[
+				"ind",
+				"Build/index.php"
+			],
+			[
+				"librar",
+				"Build/global/library-navigation.php"
+			],
+			[
+				"libr",
+				"Build/includes/library.php"
+			],
+			[
+				"video",
+				"Build/includes/video.php"
+			],
+			[
+				"large",
+				"Build/css/styles/large-screen.scss"
+			],
+			[
+				"med",
+				"Build/css/styles/medium-screen.scss"
+			],
+			[
+				"subn",
+				"Build/global/sub-nav.php"
+			],
+			[
+				"inde",
+				"Build/index.php"
+			],
+			[
+				"artic",
+				"Build/includes/article.php"
+			],
+			[
+				"modal",
+				"Build/js/libs/jquery.modal.js"
+			],
+			[
+				"scroll",
+				"Build/includes/scroll.php"
+			],
+			[
+				"11",
+				"Build/css/import/1140.scss"
+			],
+			[
+				"fitvi",
+				"Build/js/libs/fitvids.js"
+			],
+			[
+				"internal",
+				"Build/global/internal-header-navigation.php"
+			],
+			[
+				"internal-s",
+				"Build/index-internal-sidebar.php"
+			],
+			[
+				"tiptip",
+				"Build/css/import/tipTip.scss"
+			],
+			[
+				"tool",
+				"Build/css/import/tooltip.scss"
+			],
+			[
+				"header",
+				"Build/global/header-banner.php"
+			],
+			[
+				"navig",
+				"Build/global/navigation.php"
+			],
+			[
+				"jw",
+				"Build/js/libs/jwplayer.js"
+			],
+			[
+				"articl",
+				"Build/includes/article.php"
+			],
+			[
+				"head",
+				"Build/global/header.php"
+			],
+			[
+				"nav",
+				"Build/global/navigation.php"
+			],
+			[
+				"user",
+				"Build/user-survey.php"
+			],
+			[
+				"user-",
+				"Build/user-survey.php"
+			],
+			[
+				"v",
+				"Build/includes/video.php"
+			],
+			[
+				"script",
+				"Build/js/script.js"
+			],
+			[
+				"base.",
+				"Build/css/styles/base.scss"
+			],
+			[
+				"load",
+				"Build/css/import/loader.scss"
+			],
+			[
+				"loader",
+				"Build/css/import/loader.scss"
+			],
+			[
+				"arti",
+				"Build/includes/article.php"
+			],
+			[
+				"in",
+				"Build/includes/article-full.php"
+			],
+			[
+				"mix",
+				"Build/css/import/mixins.scss"
+			],
+			[
+				"core",
+				"Build/css/import/core.scss"
+			],
+			[
+				"alert",
+				"static/js/libs/alerts.js"
+			],
+			[
+				"hook",
+				"static/css/import/hook.scss"
+			],
+			[
+				"submit",
+				"static/js/libs/submit.js"
+			],
+			[
+				"livescr",
+				"#HTDOCS/livescribe.php"
+			],
+			[
+				"rdio",
+				"#HTDOCS/js/libs/jquery.api.rdio.js"
+			],
+			[
+				"cataly",
+				"#HTDOCS/#archive/v5.1-responsive-non-mobile-first/interior_catalyst.php"
+			],
+			[
+				"instagram",
+				"#HTDOCS/js/libs/jquery.api.instagram.js"
+			],
+			[
+				"setting",
+				"fluenceapp/settings.py"
+			],
+			[
+				"mixin",
+				"fluenceapp/static/css/import/color-mixin.scss"
+			],
+			[
+				"color",
+				"fluenceapp/static/css/import/color.scss"
+			],
+			[
+				"submi",
+				"website/templates/submission.html"
+			],
+			[
+				"settings",
+				"settings.py"
+			],
+			[
+				"animat",
+				"static/css/import/animation.scss"
+			],
+			[
+				"small-",
+				"static/css/styles/small-screen.scss"
+			],
+			[
+				"1140",
+				"css/import/1140.less"
+			],
+			[
+				"ty",
+				"css/import/typography.less"
+			],
+			[
+				"instag",
+				"#HTDOCS/js/libs/jquery.api.instagram.js"
+			],
+			[
+				"api",
+				"#HTDOCS/css/import/api.less"
+			],
+			[
+				"nav.",
+				"#HTDOCS/css/import/nav.less"
+			],
+			[
+				"home",
+				"css/home.less"
+			],
+			[
+				"bann",
+				"includes/banner.php"
+			],
+			[
+				"banner",
+				"includes/banner.php"
+			],
+			[
+				"scr",
+				"js/script.js"
+			],
+			[
+				"about",
+				"about.php"
+			],
+			[
+				"home.les",
+				"css/home.less"
+			],
+			[
+				"animate",
+				"css/import/animation.less"
+			],
+			[
+				"anima",
+				"css/import/animation.less"
+			],
+			[
+				"base-",
+				"website/templates/base-loggedin.html"
+			],
+			[
+				"scripts",
+				"static/js/script.js"
+			],
+			[
+				"river",
+				"static/js/libs/river.js"
+			],
+			[
+				"colo",
+				"static/css/import/color.scss"
+			],
+			[
+				"coor",
+				"static/css/import/color.scss"
+			],
+			[
+				"campaign",
+				"website/templates/campaign.html"
+			],
+			[
+				"color-mix",
+				"static/css/import/color-mixin.scss"
+			],
+			[
+				"valida",
+				"static/js/libs/validation.js"
+			],
+			[
+				"color-m",
+				"static/css/import/color-mixin.scss"
+			],
+			[
+				"artists",
+				"website/templates/artists.html"
+			],
+			[
+				"profile",
+				"website/templates/profile.html"
+			],
+			[
+				"onboard",
+				"website/templates/onboard.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/manikrathee/Dropbox/#Symlink/#Fluence/Projects/FluenceAlpha.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
